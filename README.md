@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 # 
 #### Sou a Julia Furtado Araujo, faço faculdade de Engenharia de Computação na Universidade Federal de Itajubá.⚡
-#### Tenho interesse em tecnologia e jogos desde muito nova. Estou buscando me aprofundar nos assuntos envolvendo Banco de Dados, Fullstack e outros tópicos de programação! 🌱
+#### Tenho interesse em tecnologia e jogos desde muito nova. Estou buscando me aprofundar nos assuntos envolvendo Banco de Dados, Front-end, mas outros tópicos de programação também me interessam! 🌱
 
 ## Redes Socias 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-furtado-araújo/)
